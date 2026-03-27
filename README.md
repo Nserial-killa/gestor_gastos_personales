@@ -10,3 +10,7 @@ Sistema de gestión de gastos personales.
 2. Ir a `/server` y ejecutar `npm install`.
 3. Configurar el archivo `.env`.
 4. Ejecutar `npm run dev`.
+
+
+
+hollaaaaaa
